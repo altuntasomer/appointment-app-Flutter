@@ -1,4 +1,4 @@
-# twist_appointment_app
+# appointment_app
 
 A new Flutter project.
 
